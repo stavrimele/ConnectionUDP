@@ -13,7 +13,7 @@ import java.net.UnknownHostException;
 
 /**
  *
- * @author christian
+ * @author Stavri Mele
  */
 public class Client {
     int port;
