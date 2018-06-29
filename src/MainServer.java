@@ -6,7 +6,7 @@
 
 /**
  *
- * @author christian
+ * @author Stavri Mele
  */
 public class MainServer {
     public static void main(String[] args) 
